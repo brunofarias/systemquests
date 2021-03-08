@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 338e497b002bc584089f84ee4c8e6183, type: 3}
+  m_Name: Level - 03
+  m_EditorClassIdentifier: 
+  idLevel: 3
+  numberLevel: 03
+  nameLevel: Fase 03
+  totalQuests: 2
+  completedQuests: 0
+  quests:
+  - nameQuest: Pulos
+    textQuests: "M\xE1ximo 3 pulos"
+    valueQuest: 3
+    imageQuests: {fileID: 21300000, guid: ce7803d41c9fdac4cbce916a376b42a7, type: 3}
+  - nameQuest: Inimigos
+    textQuests: Mate todos os inimigos
+    valueQuest: 1
+    imageQuests: {fileID: 21300000, guid: ce7803d41c9fdac4cbce916a376b42a7, type: 3}
